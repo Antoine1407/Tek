@@ -1,2 +1,2 @@
 # Tek
-Tout les projets que j'ai pu réaliser 
+Ici tout les projets rélisé à Epitech.
